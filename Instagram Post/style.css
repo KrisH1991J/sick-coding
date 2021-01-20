@@ -1,0 +1,31 @@
+body {
+    postition: relative;height: 100vh;background: black;
+}
+.post-header {
+    height: 100%;display: flex;align-items: center;
+}
+.fab {
+    font-size: 27px; margin: 75%; margin-bottom: 75%; float: left;
+}
+h1 {
+    margin: 0%;font-size: 16px;margin-inline-start: 30px;
+} 
+h2 {
+    margin-top: 0%;font-size: 16px;font-weight: normal;margin-inline-start: 30px;margin-bottom: 0%;
+}
+.fas {
+    float: right;width: 50%;font-size: 25px;height: 25px; margin-left: 670px;
+}
+.post {
+    position: absolute;top: 50%;left: 50%;margin: -25px 0 0 -25px;transform: translate(-50%, -50%);
+    overflow: hidden;background: white;max-width: 25%;max-height: 100%
+}
+.far {
+    margin-inline-start: 10px;font-size: 25px;margin-top: 10px;
+}
+.fa-bookmark {
+    float: right; margin-right: 10px;
+}
+p {
+    margin-inline-start: 15px;padding:6px; margin-bottom: 10px; margin-top: 5px;
+}
