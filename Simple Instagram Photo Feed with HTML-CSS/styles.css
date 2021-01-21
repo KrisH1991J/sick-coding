@@ -1,0 +1,37 @@
+body {
+    background: #bdbdbd;
+    margin: 0;
+}
+header {
+    background: white;
+    padding: 10px;
+}
+header h1 {
+    margin: 0;
+}
+.post {
+    background: white;
+     margin-top: 40px;
+}
+.post-header :first-child {
+    display: inline-block;
+    width: 85%;
+}
+.post h2, .post p {
+    padding: 10px;
+    margin: 0;
+}
+.post img {
+    width: 100%;
+}
+.feeds {
+    width: 600px;
+    margin: auto;
+}
+.post h2 {
+    width: 80%;
+    margin-right: 15px;
+}
+.post span {
+    color: grey;
+}
