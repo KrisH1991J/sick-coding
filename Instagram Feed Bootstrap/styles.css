@@ -1,0 +1,40 @@
+.nav-item .nav-link.active { 
+    background-color: grey; color: white; 
+} 
+.nav-item .nav-link {
+    color: grey;
+}
+.row .col-4 {
+    flex: 1 0 33%; padding: 1px; max-height: 300px;
+}
+.fa-instagram {
+    color: grey;
+}
+#header {
+    font-family: 'Playfair Display', serif; color: grey; font-size: 20px;
+}
+body {
+    background: #bdbdbd; font-size: 18px;
+}
+
+.fa-camera {
+    margin-right: 10px; margin-top: 20px; margin-inline-start: 5px;
+}
+.col-4 img {
+    width: 100%; height: 100%;
+}
+.card-body img {
+    width: 100%; height: 600px;
+}
+.card-body img .mt-0 {
+  margin-top: 0 !important;
+}
+.card-header h2 {
+    font-size: 20px;
+}
+.card span, .fa-heart, .fa-ellipsis-v {
+    color: #bdbdbd;
+}
+.col-4 .fa-heart, span {
+    margin-inline-start: 10px;
+}
